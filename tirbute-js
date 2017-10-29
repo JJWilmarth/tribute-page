@@ -1,0 +1,3 @@
+window.document.getElementById("wrapper").setAttribute("class", "mac");
+
+$("#div2").fadeIn("slow");
